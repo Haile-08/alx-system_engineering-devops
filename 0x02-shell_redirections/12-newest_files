@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -atime 1 | head -n 10
