@@ -2,6 +2,22 @@
 
 In this project, i learnd about all the linux permission.learnd about all the command chmod,sudo,su,chown,chgrp,id,groups,whoami,adduser,useradd and addgroup commands. how change ownership of a file and a dir to a group. changing permission of the the file in a different way.
 
+# commands
+
+## man or help:
+
+- chmod
+- sudo
+- su
+- chown
+- chgrp
+- id
+- groups
+- whoami
+- adduser
+- useradd
+- addgroup 
+
 # Learning Objectives
 
 ## Permissions
@@ -19,3 +35,15 @@ In this project, i learnd about all the linux permission.learnd about all the co
 - How to print real and effective user and group IDs
 - How to print the groups a user is in
 - How to print the effective userid
+
+# Requirements
+
+## General
+
+- Allowed editors: vi, vim, emacs
+- All your scripts will be tested on Ubuntu 20.04 LTS
+- All your scripts should be exactly two lines long ($ wc -l file should print 2)
+- The first line of all your files should be exactly #!/bin/bash
+- A README.md file, at the root of the folder of the project, describing what each script is doing
+- You are not allowed to use backticks, &&, || or ;
+- All your files must be executable
