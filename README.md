@@ -8,3 +8,4 @@
 - [0x00](./0x00-shell_basics) : shell, basics
 - [0x01](./0x01-shell_permissions) : Shell, permissions
 - [0x02](./0x02-shell_redirections) : shell I/O Redirections and filters
+- [0x03](./0x03-shell_variables_expansions) : Shell, init files, variables and expansions
