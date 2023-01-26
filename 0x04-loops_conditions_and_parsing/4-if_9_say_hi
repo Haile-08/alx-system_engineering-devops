@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# This script Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Be#+ st School and then Hi
+i=1
+l=10
+e=9
+while (("$i" <= "$l"));
+do
+	if [ "$i" -eq "$e" ]
+	then
+		echo "Hi"
+	else
+		echo "Best School"
+	fi
+	(( i++ ))
+done
