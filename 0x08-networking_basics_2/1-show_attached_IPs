@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays all active ipv3 address
+ifconfig -a | grep "inet addr" | cut -d " " -f12 | cut -d ":" -f2
