@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Add the SSH public key below to your server
-ssh-copy-id -i key.pub ubuntu@100.26.243.170
+ssh-copy-id ubuntu@100.26.243.170
